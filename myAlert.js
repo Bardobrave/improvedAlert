@@ -81,3 +81,5 @@ var ALERT = (function () {
 
     return my;
 } ());
+
+export { ALERT };
