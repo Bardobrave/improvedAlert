@@ -1,6 +1,6 @@
 //Fichero que se podría utilizar para la definición de aquellas clases que utilicemos de modo global
 
-var ALERT = (function () {
+export var ALERT = (function () {
     var my = {};
 
     my.show = function (id, mensaje) {
